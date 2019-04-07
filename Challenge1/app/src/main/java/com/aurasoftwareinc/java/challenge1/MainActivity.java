@@ -25,7 +25,7 @@ public class MainActivity extends Activity
 
         createLayout();
 
-        setTitle("Put Your Name Here...");
+        setTitle("Max");
     }
 
     private void createLayout()
